@@ -1,6 +1,14 @@
 # Sad Emoji with Turtle
 As a computer graphics assignment Summer 2018
 
+## How to Run
+
+`python emoji.py`
+
+## Library
+* Turtle 
+`pip install turtle`
+
 ## Output 
 ![Sad Emoji](emoji.PNG "Sad Emoji Output")
 
